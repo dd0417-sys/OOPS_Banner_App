@@ -4,5 +4,3 @@ public class OOPSBannerApp {
         System.out.println("OOPS");
     }
 }
-
-UC1: Implemented OOPSBannerApp to print OOPS to console
